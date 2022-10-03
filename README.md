@@ -15,8 +15,8 @@
 - JS/ES6
 
 ## Live Demo
-> [Click here for live preview](https://umerzia.github.io/Awesome-books/)
 
+> [Click here for live preview](https://umerzia.github.io/Awesome-books-ES6/)
 
 ## Getting Started
 
@@ -32,7 +32,7 @@
 
 ### Prerequisites
 
-- Have basic level knowledge about HTML/CSS/JS
+- Have basic level knowledge about HTML/CSS/JS/ES6
 - Have basic level knowledge about linters
 - Have basic level knowledge about the working of website
 
@@ -66,4 +66,4 @@ Give a ⭐ if you like this project!
 
 ## 📝 License
 
-- This project is [GENERAL PUBLIC LICENSE]().
+- This project is [GENERAL PUBLIC LICENSE](https://github.com/UmerZia/Awesome-books-ES6/blob/module/LICENSE).
