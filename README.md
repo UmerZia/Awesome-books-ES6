@@ -32,6 +32,7 @@
 - For StyLint test, run: `npx stylelint "**/*.{css,scss}"`
 - For WebHint test, run: `npx hint .`
 - For EsLint test, run: `npx eslint .`
+- To install the modules and dependencies listed, run: `npm install`
 
 ### Prerequisites
 
