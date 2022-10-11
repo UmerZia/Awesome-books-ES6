@@ -6,7 +6,10 @@
 
 #### Milestone completed:
 
-- [x] Update README.md.
+- [x] Use ES6 syntax.
+- [x] Divide the code into modules.
+- [x] Refactor methods and functions to arrow functions.
+- [x] Use Luxon library to set date and time.
 
 ## Language Used
 
