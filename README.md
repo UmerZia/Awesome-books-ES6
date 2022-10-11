@@ -46,14 +46,6 @@
 
 [GitHub](https://github.com/UmerZia) | [Twitter](https://twitter.com/InfinusDesign) | [LinkedIn](https://linkedin.com/in/umer-zia-30906a183/)
 
-#### Daniel Adesanya
-
-[GitHub]() | [LinkedIn]() | [LinkedIn]() 
-
-#### Omondi Kennedy
-
-[Github]() | [Twitter]() | [LinkedIn]()
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
