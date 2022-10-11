@@ -1,9 +1,7 @@
-/* eslint-disable max-classes-per-file */
 import Store from "../modules/store.js"
 import Book from "../modules/book.js";
 import UI from "../modules/ui.js";
-import DateTime from "../modules/luxon.min";
-
+import {DateTime} from "../modules/luxon.js";
 
 
 // EVENT TO DISPLAY BOOKS
@@ -75,4 +73,5 @@ const navLink = document.getElementsByClassName('navBar__link--item');
   });
 });
 
-console.log(DateTime.now().toLocaleString());
+// Display time and date
+document.getElementsByClassName("time")[0].innerText = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
