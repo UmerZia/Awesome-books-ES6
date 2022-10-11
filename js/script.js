@@ -2,6 +2,7 @@
 import Store from "../modules/store.js"
 import Book from "../modules/book.js";
 import UI from "../modules/ui.js";
+import DateTime from "../modules/luxon.min";
 
 
 
@@ -74,8 +75,4 @@ const navLink = document.getElementsByClassName('navBar__link--item');
   });
 });
 
-// Add Time and Date
-const date = new Date();
-const n = date.toDateString();
-const time = date.toLocaleTimeString();
-document.getElementsByClassName('time')[0].innerText = `${n} , ${time}`;
+console.log(DateTime.now().toLocaleString());

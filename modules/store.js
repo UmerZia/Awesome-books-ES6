@@ -1,6 +1,6 @@
 // STORE CLASS
 class Store {
-    static getBooks() {
+    static getBooks = () => {
         let books;
         if (localStorage.getItem('books') === null) {
             books = [];
@@ -10,13 +10,13 @@ class Store {
         return books;
     }
 
-    static addBook(book) {
+    static addBook = (book) => {
         const books = Store.getBooks();
         books.push(book);
         localStorage.setItem('books', JSON.stringify(books));
     }
 
-    static removeBook(book) {
+    static removeBook = (book) => {
         const bookTitle = book.querySelector('#title').innerText;
         const books = Store.getBooks();
         const filt = books.filter((book) => bookTitle === book.title);
