@@ -2,6 +2,8 @@
 
 # Awesome Books - ES6
 
+This project is a presentation of using modules and ES6 syntax in a web project.
+
 ### This project is a task by Microverse.
 
 #### Milestone completed:
